@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Clash Of Counters</string>
+
+    // Login Screen
+    <string name="login_text">Login</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="forgot_text">Forgot Password?</string>
+
+
+    // Math App Game
+    <string name="add">Addition</string>
+    <string name="subtract">Subtraction</string>
+    <string name="multiply">Multiplication</string>
+    <string name="score">Score</string>
+    <string name="zero">0</string>
+    <string name="life">Life</string>
+    <string name="three">3</string>
+    <string name="time">Time</string>
+    <string name="seconds">60</string>
+    <string name="answer">Write your answer</string>
+    <string name="okay">Okay</string>
+    <string name="next">Next Question</string>
+    <string name="congrat">Congratulations</string>
+    <string name="play">Play Again</string>
+    <string name="exit">Exit</string>
+</resources>

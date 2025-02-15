@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg6"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".Main_game">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButtonLogout"
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="20dp"
+        android:clickable="true"
+        app:contentDescription="Logout"
+        android:src="@drawable/logout"
+        app:backgroundTint="#145D9F" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/arbutus"
+        android:gravity="center"
+        android:text="Game Modes"
+        android:textColor="#6200EA"
+
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/button_design"
+        android:fontFamily="@font/averia_libre_bold"
+        android:text="Addition (+)"
+        android:textColor="#040303"
+        android:textSize="18sp" />
+
+
+    <Button
+        android:id="@+id/minus"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/button_design"
+        android:fontFamily="@font/averia_libre_bold"
+        android:text="Subtraction (-)"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/times"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/button_design"
+        android:fontFamily="@font/averia_libre_bold"
+        android:text="MULTIPLICATION (x)"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="60dp" />
+
+    <Button
+        android:id="@+id/viewHighScores"
+        android:layout_width="324dp"
+        android:layout_height="66dp"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:backgroundTint="#BAC4CD"
+        android:fontFamily="@font/averia_libre_bold"
+        android:text="View Leaderboards"
+        android:textColor="#0B0A0A"
+        android:textSize="15sp" />
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "42495121821",
+    "firebase_url": "https://clash-of-counters-default-rtdb.firebaseio.com",
+    "project_id": "clash-of-counters",
+    "storage_bucket": "clash-of-counters.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42495121821:android:61bd11656af65c69bf7774",
+        "android_client_info": {
+          "package_name": "com.example.activity9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtvoYghlZg_tu-VdQ8BCidZus543ZU8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42495121821:android:f95cf068607924fcbf7774",
+        "android_client_info": {
+          "package_name": "com.example.clashofcounters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtvoYghlZg_tu-VdQ8BCidZus543ZU8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

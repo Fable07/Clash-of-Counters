@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="math_quotes">
+        <item>“Mathematics is the music of reason.” - James Joseph Sylvester</item>
+        <item>“Do not worry about your difficulties in mathematics; I can assure you that mine are still greater.” - Albert Einstein</item>
+        <item>“Mathematics is the most beautiful and most powerful creation of the human spirit.” - Stefan Banach</item>
+        <item>“In mathematics, the art of proposing a question must be held of higher value than solving it.” - Georg Cantor</item>
+        <item>“Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.” - William Paul Thurston</item>
+        <item>“The essence of mathematics lies in its freedom.” - Georg Cantor</item>
+        <item>“Mathematics is the queen of sciences and arithmetic is the queen of mathematics.” - Carl Friedrich Gauss</item>
+        <item>“The only way to learn mathematics is to do mathematics.” - Paul Halmos</item>
+        <item>“Pure mathematics is, in its way, the poetry of logical ideas.” - Albert Einstein</item>
+        <item>“Mathematics is the most beautiful and powerful creation of the human spirit.” - Stefan Banach</item>
+        <item>“Algebraic symbols are used when you do not know what you are talking about.” - Philippe Schnoebelen</item>
+        <item>“Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.” - William Paul Thurston</item>
+        <item>“In mathematics, the art of proposing a question must be held of higher value than solving it.” - Georg Cantor</item>
+        <item>“Mathematics is the music of reason.” - James Joseph Sylvester</item>
+        <item>“The only place where success comes before work is in the dictionary.” - Vidal Sassoon</item>
+        <item>“A mathematician is a device for turning coffee into theorems.” - Paul Erdős</item>
+
+    </string-array>
+</resources>
